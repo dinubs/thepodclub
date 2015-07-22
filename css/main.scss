@@ -1,0 +1,66 @@
+body {
+	padding-top: 60px;
+}
+
+.header {
+	margin-bottom: 0 !important;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+.dark-bg {
+	background-color: #262526;
+}
+
+.content-wrapper {
+	max-width: 100%;
+	padding: 0;
+}
+
+.posts-day-heading {
+	text-align: center;
+}
+
+span.bold {
+	font-weight: bold;
+	display: block;
+}
+
+.container {
+	max-width: 68em !important;
+	margin: 0 auto;
+}
+
+.menu-top-level {
+	// display: none !important;
+}
+.grid, .grid-small {
+	position: relative;
+	max-width: 68em;
+	margin: 0 auto;
+	padding: 25px;
+}
+
+.tagline-banner {
+	width: 100%;
+	background-color: #404040;
+	padding: 100px 0;
+	background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('http://434985940.r.cdnsun.net/skuawk/photo/technology/krzysztof-2.jpg');
+	background-position:center 40%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+}
+
+.vote-score {
+	display: block;
+	text-align: center;
+}
+
+.banner.banner {
+	padding: 0;
+	margin: 0;
+}
